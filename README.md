@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is Adithya, a curious techy just making something useful for the society...❤️.
+I code in
+
+- Python
+- Java
+
+##### Learning and Implementing my IDEAS...
+
+- 🌱 I’m currently learning to make telegram bots
+#### 📫 How to reach me:
+- LinkedIn : www.linkedin.com/in/adithya-pd
+- Instagram : https://www.instagram.com/techy_phoenix/
