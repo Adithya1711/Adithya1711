@@ -24,9 +24,9 @@ I relentlessly code in Python.
 - ⚙️ Started making some cool cybersecurity tools
 
 #### Skills:
-Python
-Java
-MySQL
+- Python
+- Java
+- MySQL
 
 #### 📫 How to reach me:
 - LinkedIn : www.linkedin.com/in/adithya-pd
