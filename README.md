@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is Adithya, a curious techy just making something useful for the society...❤️.
-I code in
+I relentlessly code in Python.
 
-- Python
-- Java
 
 ##### Learning and Implementing my IDEAS...
 
-- 🌱 I’m currently learning to make telegram bots
+- 🌱 I’m currently building simple telegram bots
+- ⚙️ Started making some cool cybersecurity tools
+
+#### Skills:
+Python
+Java
+MySQL
+
 #### 📫 How to reach me:
 - LinkedIn : www.linkedin.com/in/adithya-pd
-- Instagram : https://www.instagram.com/techy_phoenix/
+- Instagram : https://www.instagram.com/kalki_the_reformer
