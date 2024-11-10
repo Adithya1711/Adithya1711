@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Adithya1711/Adithya1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,20 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 This is Adithya, a curious techy just making something useful for the society...❤️.
+
 I relentlessly code in Python.
 
 
-##### Learning and Implementing my IDEAS...
+### Learning and Implementing my IDEAS...
 
 - 🌱 I’m currently building simple telegram bots
 - ⚙️ Started making some cool cybersecurity tools
+- Built a really good working blood donation management system using AWS
 
-#### Skills:
+<details id=1>
+<summary><h3>Skills :</h3></summary>
+  
 - Python
 - Java
 - MySQL
+- AWS
+</details>
 
-#### 📫 How to reach me:
-- LinkedIn : www.linkedin.com/in/adithya-pd
-- Instagram : https://www.instagram.com/kalki_the_reformer
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](www.linkedin.com/in/adithya-pd)
+[![GitHub](https://img.shields.io/badge/GitHub-lightgray?logo=github&style=social)](https://github.com/Adithya1711)
+
